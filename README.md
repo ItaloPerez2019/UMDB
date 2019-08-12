@@ -27,6 +27,7 @@ o User is an entity that has the following information:
 o Email and phone numbers are unique
 o Email and Password are used to login
 o Password must be hashed (encrypted in the DB)
+
  Move:
 o Movie is the other entity in the project, a user can see the following information about a
 movie:
